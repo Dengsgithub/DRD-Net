@@ -18,5 +18,6 @@ python train.py --image_dir_noise you rain data --image_dir_original you gt data
 
 The dataset "Rain200H" and "Rain200L" you can download here:
 https://www.icst.pku.edu.cn/struct/Projects/joint_rain_removal.html
-the dataset "Rain800" you can download here:
+
+The dataset "Rain800" you can download here:
 https://drive.google.com/drive/folders/0Bw2e6Q0nQQvGbi1xV1Yxd09rY2s
